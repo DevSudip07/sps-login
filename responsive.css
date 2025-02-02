@@ -1,0 +1,30 @@
+@media only screen and (max-width: 600px) {
+    
+
+    main {
+        width: 95%;
+        height: 100%;
+    }
+
+    .sign-up, .login {
+        padding: 0;
+
+        & input {
+            width: 90%;
+        }
+
+        & button {
+            width: 90%;
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+  }
